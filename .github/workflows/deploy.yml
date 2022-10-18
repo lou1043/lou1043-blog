@@ -29,7 +29,11 @@ jobs:
               uses: peaceiris/actions-gh-pages@v3
               with:
                   PERSONAL_TOKEN: ${{ secrets.PERSONAL_TOKEN }}
+<<<<<<< HEAD
                   EXTERNAL_REPOSITORY: lou1043/lou1043.github.io
+=======
+                  EXTERNAL_REPOSITORY: lou1043/lou.github.io
+>>>>>>> 0fadd44e768d575e2fbc1dd6cf1124fbff2c75d3
                   PUBLISH_BRANCH: master
                   PUBLISH_DIR: ./public
                   commit_message: ${{ github.event.head_commit.message }}
