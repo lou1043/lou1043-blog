@@ -26,7 +26,6 @@ params:
   DateFormat: "January 2, 2006"
   defaultTheme: auto # dark, light
   disableThemeToggle: false
-
   ShowReadingTime: true
   ShowShareButtons: true
   ShowPostNavLinks: true
@@ -42,6 +41,8 @@ params:
   hideSummary: false
   showtoc: true
   tocopen: true
+  cover:
+    responsiveImages: false
 
   assets:
     # disableHLJS: true # to disable highlight.js
@@ -74,10 +75,8 @@ params:
               url: "https://github.com/lou1043"
 
     socialIcons: # optional
-        - name: "<platform>"
-          url: "<link>"
-        - name: "<platform 2>"
-          url: "<link2>"
+        - name: "github"
+          url: "https://github.com/lou1043"
 
   # home-info mode
   # homeInfoParams:
