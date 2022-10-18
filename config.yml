@@ -1,6 +1,6 @@
 baseURL: "https://ghost.lou.wiki"
 title: Lou1043's blog
-languageCode: en-us
+languageCode: zh_CN
 paginate: 5
 theme: "PaperMod"
 
