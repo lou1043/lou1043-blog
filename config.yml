@@ -64,8 +64,8 @@ params:
         enabled: true
         title: "<Title>" # optional default will be site title
         subtitle: "This is subtitle"
-        imageUrl: "<image link>" # optional
-        imageTitle: "<title of image as alt>" # optional
+        imageUrl: "/avatar.jpg" # optional
+        imageTitle: "Lou1043" # optional
         imageWidth: 120 # custom size
         imageHeight: 120 # custom size
         buttons:
