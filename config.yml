@@ -17,8 +17,8 @@ minify:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: ExampleSite
-  description: "ExampleSite description"
+  title: Lou1043's blog
+  description: "Lou1043's blog"
   keywords: [Blog, Portfolio, PaperMod]
   author: Lou1043
   # author: ["Me", "You"] # multiple authors
@@ -41,11 +41,32 @@ params:
   hideSummary: false
   showtoc: true
   tocopen: true
+
+# profile-mode
+
+  profileMode:
+      enabled: true
+      title: "Lou1043' blog" # optional default will be site title
+      subtitle: "与其感慨路难行，不如马上出发"
+      imageUrl: "/avatar.jpg" # optional
+      imageTitle: "Lou1043" # optional
+      imageWidth: 120 # custom size
+      imageHeight: 120 # custom size
+      buttons:
+          - name: Archive
+            url: "/archive"
+          - name: Github
+            url: "https://github.com/lou1043"
+
+  socialIcons: # optional
+        - name: "github"
+          url: "https://github.com/lou1043"
+
   cover:
     responsiveImages: false
 
   assets:
-    # disableHLJS: true # to disable highlight.js
+    disableHLJS: true # to disable highlight.js
     # disableFingerprinting: true
     favicon: "<link / abs url>"
     favicon16x16: "<link / abs url>"
@@ -58,25 +79,6 @@ params:
     icon: /apple-touch-icon.png
     iconHeight: 35
 
-  # profile-mode
-
-    profileMode:
-        enabled: true
-        title: "<Title>" # optional default will be site title
-        subtitle: "This is subtitle"
-        imageUrl: "/avatar.jpg" # optional
-        imageTitle: "Lou1043" # optional
-        imageWidth: 120 # custom size
-        imageHeight: 120 # custom size
-        buttons:
-            - name: Archive
-              url: "/archive"
-            - name: Github
-              url: "https://github.com/lou1043"
-
-    socialIcons: # optional
-        - name: "github"
-          url: "https://github.com/lou1043"
 
   # home-info mode
   # homeInfoParams:
@@ -142,11 +144,12 @@ menu:
       weight: 30
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
+
 markup:
-  highlight:
-    noClasses: false
-    # anchorLineNos: true
-    # codeFences: true
-    # guessSyntax: true
-    # lineNos: true
-    # style: monokai
+    highlight:
+        # anchorLineNos: true
+        codeFences: true
+        guessSyntax: true
+        lineNos: true
+        # noClasses: false
+        style: monokai
