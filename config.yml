@@ -20,7 +20,7 @@ params:
   title: ExampleSite
   description: "ExampleSite description"
   keywords: [Blog, Portfolio, PaperMod]
-  author: Me
+  author: Lou1043
   # author: ["Me", "You"] # multiple authors
   images: ["<link or path of image for opengraph, twitter-cards>"]
   DateFormat: "January 2, 2006"
@@ -58,6 +58,7 @@ params:
     iconHeight: 35
 
   # profile-mode
+
     profileMode:
         enabled: true
         title: "<Title>" # optional default will be site title
@@ -70,7 +71,7 @@ params:
             - name: Archive
               url: "/archive"
             - name: Github
-              url: "https://github.com/"
+              url: "https://github.com/lou1043"
 
     socialIcons: # optional
         - name: "<platform>"
