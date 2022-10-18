@@ -10,14 +10,14 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 18 Oct 2022 08:53:58 +0800</lastBuildDate><atom:link href="https://ghost.lou.wiki/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 18 Oct 2022 10:13:45 +0800</lastBuildDate><atom:link href="https://ghost.lou.wiki/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Test</title>
-      <link>https://ghost.lou.wiki/post/test/</link>
-      <pubDate>Tue, 18 Oct 2022 08:53:58 +0800</pubDate>
+      <title>Hello</title>
+      <link>https://ghost.lou.wiki/post/hello/</link>
+      <pubDate>Tue, 18 Oct 2022 10:13:45 +0800</pubDate>
       
-      <guid>https://ghost.lou.wiki/post/test/</guid>
-      <description>Hello World! test! try again. again.</description>
+      <guid>https://ghost.lou.wiki/post/hello/</guid>
+      <description>Hello World!</description>
     </item>
     
   </channel>

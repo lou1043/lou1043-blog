@@ -2,14 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://ghost.lou.wiki/post/hello/</loc>
+    <lastmod>2022-10-18T10:13:45+08:00</lastmod>
+  </url><url>
     <loc>https://ghost.lou.wiki/</loc>
-    <lastmod>2022-10-18T08:53:58+08:00</lastmod>
+    <lastmod>2022-10-18T10:13:45+08:00</lastmod>
   </url><url>
     <loc>https://ghost.lou.wiki/post/</loc>
-    <lastmod>2022-10-18T08:53:58+08:00</lastmod>
-  </url><url>
-    <loc>https://ghost.lou.wiki/post/test/</loc>
-    <lastmod>2022-10-18T08:53:58+08:00</lastmod>
+    <lastmod>2022-10-18T10:13:45+08:00</lastmod>
   </url><url>
     <loc>https://ghost.lou.wiki/archives/</loc>
   </url><url>

@@ -1,9 +1,0 @@
-#+TITLE: Test
-#+DATE: 2022-10-18T08:53:58+08:00
-#+DRAFT: false
-#+TAGS[]:
-#+CATEGORIES[]:
-Hello World!
-test!
-try again.
-again.
