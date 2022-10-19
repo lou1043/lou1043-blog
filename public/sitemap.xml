@@ -2,38 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://ghost.lou.wiki/tags/basic/</loc>
-    <lastmod>2022-10-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ghost.lou.wiki/categories/</loc>
-    <lastmod>2022-10-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ghost.lou.wiki/categories/lisp/</loc>
-    <lastmod>2022-10-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ghost.lou.wiki/</loc>
-    <lastmod>2022-10-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ghost.lou.wiki/post/</loc>
-    <lastmod>2022-10-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ghost.lou.wiki/tags/</loc>
-    <lastmod>2022-10-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ghost.lou.wiki/post/%E6%95%B0%E5%AD%97/</loc>
-    <lastmod>2022-10-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ghost.lou.wiki/categories/blog/</loc>
-    <lastmod>2022-10-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ghost.lou.wiki/tags/hello/</loc>
-    <lastmod>2022-10-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ghost.lou.wiki/post/hello/</loc>
-    <lastmod>2022-10-18T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://ghost.lou.wiki/archives/</loc>
   </url><url>
+    <loc>https://ghost.lou.wiki/categories/</loc>
+  </url><url>
+    <loc>https://ghost.lou.wiki/</loc>
+  </url><url>
+    <loc>https://ghost.lou.wiki/posts/</loc>
+  </url><url>
     <loc>https://ghost.lou.wiki/search/</loc>
+  </url><url>
+    <loc>https://ghost.lou.wiki/tags/</loc>
+  </url><url>
+    <loc>https://ghost.lou.wiki/posts/%E6%95%B0%E5%AD%97/</loc>
   </url>
 </urlset>
