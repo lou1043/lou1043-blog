@@ -10,7 +10,17 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh_CN</language>
-    <lastBuildDate>Wed, 19 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://ghost.lou.wiki/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 20 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://ghost.lou.wiki/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Structure of Code Block</title>
+      <link>https://ghost.lou.wiki/post/structure_of_code_blocks/</link>
+      <pubDate>Thu, 20 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://ghost.lou.wiki/post/structure_of_code_blocks/</guid>
+      <description>Structure of Code Blocks Org offers two ways to structure source code in Org documents: in a source code block, and directly inline. Both specifications are shown below.
+#+NAME: &amp;lt;name&amp;gt; #+BEGIN_SRC &amp;lt;language&amp;gt; &amp;lt;switched&amp;gt; &amp;lt;header arguments&amp;gt; &amp;lt;body&amp;gt; #+END_SRC Do not be put-off by having to remember the source block syntax. Org mode offers a commmand for warpping existing text in a block. Org also works with other completrion systems in Emacs, some of which predate Org and have custom domain-specific languages for defining templates.</description>
+    </item>
+    
     <item>
       <title>数字</title>
       <link>https://ghost.lou.wiki/post/%E6%95%B0%E5%AD%97/</link>

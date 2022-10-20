@@ -10,7 +10,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh_CN</language>
-    <lastBuildDate>Wed, 19 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://ghost.lou.wiki/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 20 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://ghost.lou.wiki/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>org-mode</title>
+      <link>https://ghost.lou.wiki/categories/org-mode/</link>
+      <pubDate>Thu, 20 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://ghost.lou.wiki/categories/org-mode/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>lisp</title>
       <link>https://ghost.lou.wiki/categories/lisp/</link>
